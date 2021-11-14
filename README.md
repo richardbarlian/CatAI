@@ -10,7 +10,7 @@
 * To run this program, you need to use Python 3.7.
 * The code is developed and tested under Python 3.7.0 (https://www.python.org/ftp/python/3.7.0/python-3.7.0-amd64.exe)
 * After that, you need to install the necessary modules (modules are found in `requirements.txt` - you can install using this command `pip install -r requirements.txt`)
-* If you have a CUDA enabled GPU, you may have to use tensorflow-directml
+* If you have a __CUDA__ enabled GPU, you may have to use tensorflow-directml
 
 ### Instructions for running
 * `cd` into the `.\program\` directory</li>
