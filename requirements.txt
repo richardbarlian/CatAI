@@ -1,0 +1,5 @@
+pyqt5-plugins==5.15.4.2.2
+numpy==1.21.2
+pywin32-ctypes==0.2.0
+opencv-python>=4.5.3.56
+tensorflow==1.15
