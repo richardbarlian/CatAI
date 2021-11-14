@@ -23,6 +23,6 @@
 * It will show the image with the diagnosis
 ----
 ## Disclaimer:
-### * This project is not in any way supposed to be an alternative to medical advice.
-### * This is not meant to be used as a replacement to medical advice, but as an extension.
-### * The purpose of this project is only to detect cataracts in its early stages, so you can seek medical advice sooner.
+* This project is not in any way supposed to be an alternative to medical advice.
+* This is not meant to be used as a replacement to medical advice, but as an extension.
+* The purpose of this project is only to detect cataracts in its early stages, so you can seek medical advice sooner.
