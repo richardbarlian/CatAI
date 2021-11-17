@@ -1,3 +1,14 @@
+main_title {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+}
+
+heading {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+}
+
 code {
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
