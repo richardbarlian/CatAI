@@ -112,7 +112,7 @@ def detect():
 
 def instructions():
     # Opens instructions.html
-    os.system("explorer.exe instructions.html")
+    os.system("explorer html_instructions\instructions.html")
 
 def exit():
     # Creates a yes or no messagebox
